@@ -1,0 +1,11 @@
+Austin Winslow: 99.0 A
+      
+Johnny Smith: 78.0 C
+      
+Sally Strong: 94.0 A
+      
+Jimmy Fallon: 80.0 B
+      
+Chris Botsworth: 86.0 B
+      
+Brian Boyd: 64.0 D
